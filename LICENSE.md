@@ -42,14 +42,50 @@ intelectual, marca registrada ou patente.
 
 ---
 
-## 4. ISENÇÃO DE GARANTIA
+## 4. ISENÇÃO DE GARANTIA E LIMITAÇÃO DE RESPONSABILIDADE
 
-O software é fornecido **"NO ESTADO EM QUE SE ENCONTRA"**, sem garantias de qualquer tipo,  
-expressas ou implícitas, incluindo, mas não se limitando, às garantias de comercialização,  
-adequação a uma finalidade específica ou não violação de direitos de terceiros.
+O **Helios Secure Text** é fornecido **"NO ESTADO EM QUE SE ENCONTRA"** (**"AS IS"**), de acordo com suas funcionalidades normais e limitações técnicas previsíveis, **sem garantias de qualquer tipo**, expressas ou implícitas, incluindo, sem limitação:
 
-Em nenhuma hipótese a **HANSoft** será responsável por quaisquer danos diretos, indiretos,  
-incidentais ou consequenciais decorrentes do uso ou incapacidade de uso deste software.
+- garantias de comercialização;
+- adequação a uma finalidade específica;
+- funcionamento ininterrupto;
+- ausência de falhas, erros, bugs ou vulnerabilidades;
+- não violação de direitos de terceiros.
+
+O **Helios Secure Text** é uma ferramenta destinada à proteção local de mensagens e textos por meio de mecanismos criptográficos e recursos complementares de integridade e ofuscação, podendo o conteúdo gerado ser copiado, armazenado ou enviado pelo próprio usuário por meios externos.
+
+Embora o software utilize práticas de segurança e proteção criptográfica, a **HANSoft** não garante:
+
+- sigilo absoluto em todos os cenários de uso;
+- proteção absoluta contra acesso indevido, perda de dados, falhas de sistema ou comprometimento do ambiente do usuário;
+- recuperação integral de dados em qualquer hipótese de falha;
+- impossibilidade de exposição do conteúdo por meios externos de envio, armazenamento ou compartilhamento escolhidos pelo usuário;
+- ausência total de comportamentos inesperados durante o uso.
+
+Bugs, falhas e comportamentos inesperados **podem existir e podem ocorrer durante o uso**, mesmo com testes e cuidados no desenvolvimento. Nenhum software é totalmente livre de erros.
+
+O usuário reconhece que a **decisão de utilizar este software é feita por sua própria escolha e responsabilidade**, devendo avaliar previamente se ele atende às suas necessidades e se é adequado ao ambiente em que será utilizado.
+
+**O usuário é responsável por:**
+
+- proteger senhas, chaves, arquivos e demais meios de acesso relacionados ao uso do software;
+- testar a descriptografia e a integridade do conteúdo antes de utilizá-lo em contexto real, profissional ou sensível;
+- manter cópias de segurança independentes dos conteúdos relevantes;
+- adotar boas práticas de segurança digital, incluindo proteção do dispositivo, atualização do sistema e cuidado com os meios de envio, armazenamento e compartilhamento do conteúdo.
+
+Na máxima extensão permitida pela legislação aplicável, a **HANSoft** não se responsabiliza por prejuízos decorrentes de:
+
+- perda, corrupção ou exclusão indevida de dados;
+- uso inadequado do software;
+- falhas, bugs ou comportamentos inesperados;
+- acesso não autorizado ao dispositivo do usuário;
+- falhas no sistema operacional ou no ambiente do usuário;
+- malware, keyloggers, captura indevida de tela, engenharia social, interrupção elétrica, erro humano ou interferência de antivírus, filtros e softwares de terceiros;
+- exposição do conteúdo causada por uso inseguro de e-mail, arquivos, dispositivos, serviços ou canais externos escolhidos pelo usuário.
+
+---
+
+**Importante:** nenhum software pode oferecer garantia absoluta de segurança, funcionamento contínuo ou recuperação total de dados em todos os cenários.
 
 ---
 
