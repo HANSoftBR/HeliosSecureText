@@ -98,6 +98,8 @@ Na máxima extensão permitida pela legislação aplicável, a **HANSoft** não 
 - malware, keyloggers, captura indevida de tela, engenharia social, interrupção elétrica, erro humano ou interferência de antivírus, filtros e softwares de terceiros;
 - exposição do conteúdo causada por uso inseguro de e-mail, arquivos, dispositivos, serviços ou canais externos escolhidos pelo usuário.
 
+---
+
 **Importante:** nenhum software pode oferecer garantia absoluta de segurança, funcionamento contínuo ou recuperação total de dados em todos os cenários.
 
 ---
