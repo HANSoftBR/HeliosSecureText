@@ -1,5 +1,8 @@
 # LICENÇA DE USO — SOFTWARE PROPRIETÁRIO
 
+**Status:** Descontinuado  
+Este projeto não está mais em desenvolvimento ou manutenção ativa.
+
 **Nome do Software:** Helios Secure Text  
 **Autor:** HANSoft (Desenvolvedor independente)  
 **Contato:** devhansoft@gmail.com  
